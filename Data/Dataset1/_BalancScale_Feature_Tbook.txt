@@ -1,0 +1,5 @@
+Class_Name:No,Yes
+Humidity:High,Normal
+Outlook:Sunny,Overcast,Rain
+Temprature:Hot,Mild,Cool
+Wind:Strong,Weak

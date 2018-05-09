@@ -1,0 +1,5 @@
+Class_Name:L, B, R
+Left_Weight:1, 2, 3, 4, 5
+Left_Distance:1, 2, 3, 4, 5
+Right_Weight:1, 2, 3, 4, 5
+Right_Distance:1, 2, 3, 4, 5
